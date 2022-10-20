@@ -18,7 +18,7 @@ The purpose of this project was to analyse how weather changes as you get closer
 
 After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs. latitude. Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualisations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.
 
-<p align="right"><button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<p align="right"><a href="#topdoc">top</a></p>
 
 <!-- requirements -->
 ## Requirements
@@ -35,7 +35,7 @@ After assembling the dataset, we used Matplotlib to plot various aspects of the 
 <h3><a href="https://joshuatean.github.io/Web-Design-Challenge/index.html" target="_blank">Click here to access the home page</a></h3>
 <br>
 
-<p align="right"><button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<p align="right"><a href="#topdoc">top</a></p>
 
 <!-- considerations -->
 ## Considerations
@@ -44,4 +44,4 @@ After assembling the dataset, we used Matplotlib to plot various aspects of the 
 * A navigation bar is present at the top of every page.
 * The website is deployed to GitHub Pages.
 
-<p align="right"><button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<p align="right"><a href="#topdoc">top</a></p>
